@@ -19,6 +19,6 @@
   <img aling="center" alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloMacedoSilva&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloMacedoSilva&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 Apaixonado pelo desenvolvimento tecnológico ❤️
