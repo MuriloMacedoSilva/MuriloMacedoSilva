@@ -1,33 +1,7 @@
 
-### Olá, eu sou o Murilo Macedo 😊
+### Olá, eu sou o Murilo Macedo, Sejam bem-vindos ao meu perfil! 😊
 
-Sejam bem-vindos ao meu perfil! 😊
-
-💻 Olá! Sou o Murilo Macedo, desenvolvedor full-stack com 18 anos e uma paixão genuína por tecnologia e soluções eficientes.
-
-🎓 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP e também me desenvolvendo profissionalmente no Instituto PROA — buscando sempre alinhar teoria com prática de mercado.
-
-🔍 Tenho foco em escrever código limpo, escalável e bem estruturado. Gosto de entender o problema antes de pensar na solução e acredito na tecnologia como meio de transformar realidades.
-
-🧠 Minhas habilidades técnicas incluem:
-
-Front-end:
-HTML5, CSS3, JavaScript, React.Js
-
-Design e prototipagem:
-Figma, Gimp, Canva
-
-Back-end e lógica de programação:
-Python, Java, SpringBoot, VisualG
-
-Banco de dados e modelagem:
-MySQL, brModelo
-
-Versionamento e colaboração:
-Git, GitHub
-
-🎯 Estou em constante aprendizado, tenho boa comunicação e trabalho em equipe. Buscando sempre evoluir como profissional e contribuir com projetos que realmente façam a diferença.
-
+💻 Olá! Sou o Murilo Macedo, desenvolvedor full-stack com 18 anos e uma paixão genuína por tecnologia e soluções eficientes.🎓 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP e também me desenvolvendo profissionalmente no Instituto PROA — buscando sempre alinhar teoria com prática de mercado.🔍 Tenho foco em escrever código limpo, escalável e bem estruturado. Gosto de entender o problema antes de pensar na solução e acredito na tecnologia como meio de transformar realidades.🧠 Minhas habilidades técnicas incluem Front-end: HTML5, CSS3, JavaScript, React.Js | Design e prototipagem: Figma, Gimp, Canva | Back-end e lógica de programação: Python, Java, SpringBoot, VisualG | Banco de dados e modelagem: MySQL, brModelo | Versionamento e colaboração: Git, GitHub.🎯 Estou em constante aprendizado, tenho boa comunicação e trabalho em equipe. Buscando sempre evoluir como profissional e contribuir com projetos que realmente façam a diferença.
 📬 Fique à vontade para entrar em contato:
 ✉️ murilomacedo.dev73@gmail.com
 📞 (11) 98532-3292
