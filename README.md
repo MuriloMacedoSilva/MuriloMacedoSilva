@@ -4,7 +4,7 @@
 [![Instagram]( 	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_murilodev/)
 [![Linkedin]( 	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-macedo-8b1567316/)
 
-👨‍💻 Olá! Sou Murilo Macedo, desenvolvedor full-stack com 18 anos, estudante da FIAP e do Instituto PROA. <br>
+👨‍💻 Desenvolvedor full-stack com 18 anos, estudante da FIAP e do Instituto PROA. <br>
 🚀 Apaixonado por tecnologia, gosto de transformar ideias em soluções funcionais e bem estruturadas. <br>
 🧠 Skills: HTML5, CSS3, JavaScript, React.Js | Python, Java, SpringBoot | MySQL | Git & GitHub <br>
 🎨 Também curto design com Figma, Gimp e Canva. <br>
