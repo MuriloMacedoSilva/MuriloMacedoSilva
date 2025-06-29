@@ -1,6 +1,6 @@
 
 ### Olá, eu sou o Murilo Macedo 😊
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@murilo-dev01?si=2wm_RdI_G9-San0v)
+
 [![Instagram]( 	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_murilodev/)
 [![Linkedin]( 	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-macedo-8b1567316/)
 
