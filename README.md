@@ -6,7 +6,7 @@
 
 👨‍💻 Desenvolvedor full-stack com 18 anos, estudante da FIAP e ex-aluno do Instituto PROA. <br>
 🚀 Apaixonado por tecnologia, gosto de transformar ideias em soluções funcionais e bem estruturadas. <br>
-🧠 Skills: HTML5, CSS3, JavaScript, React.Js | Python, Java, SpringBoot | MySQL | Git & GitHub <br>
+🧠 Skills: HTML5, CSS3, JavaScript, React.Js, Tailwind CSS | Python, Java, SpringBoot | MySQL | Git & GitHub <br>
 🎨 Também curto design com Figma, Gimp e Canva. <br>
 🎯 Foco em aprendizado contínuo e código limpo. <br>
 📫 Contato: murilomacedo.dev73@gmail.com | (11) 98532-3292
