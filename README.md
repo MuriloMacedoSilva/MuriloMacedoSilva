@@ -17,7 +17,7 @@
 
 ## Tecnologias que eu uso no meu dia
 
-<div style="display: flex"><br>
+<div style="display: flex; gap: 20px"><br>
   <img aling="center" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img aling="center" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img aling="center" width="60px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
