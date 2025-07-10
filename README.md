@@ -18,16 +18,16 @@
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br>
-  <img aling="center" alt="HTML5" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png">
-  <img aling="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img aling="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img aling="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img aling="center" alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img aling="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img aling="center" alt="React.js" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
-  <img aling="center" alt="mySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img aling="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img aling="center" alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white">
+  <img aling="center" alt="HTML5" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png">
+  <img aling="center" alt="CSS3" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png">
+  <img aling="center" alt="JavaScript" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
+  <img aling="center" alt="Python" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCHi18uXFtRb1_q7pQIVxYlwqvhVzCzZ4PQ&s">
+  <img aling="center" alt="Java" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKhn1qGg_HjWpcCoDoGnl_TB3hu2Rn6Xms7g&s">
+  <img aling="center" alt="React.js" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s">
+  <img aling="center" alt="Tailwind CSS" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhoXisDruJMDAq3Ltd-wuaMW2lGxck9wAKw&s"
+  <img aling="center" alt="mySQL" width="60px" src="https://e7.pngegg.com/pngimages/700/692/png-clipart-mysql-mysql.png">
+  <img aling="center" alt="Figma" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ-zi1wEQyapw-x_FsssdRr-fnDL8wvivTmQ&s">
+  <img aling="center" alt="SpringBoot" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoUWKYgsfQmi5R7AWA93IFqcmDYMqV39wkrw&s>
 </div>
 
 Apaixonado pelo desenvolvimento tecnológico ❤️
