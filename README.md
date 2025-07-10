@@ -21,12 +21,12 @@
   <img aling="center" alt="HTML5" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png">
   <img aling="center" alt="CSS3" width="43px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png">
   <img aling="center" alt="JavaScript" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
-  <img aling="center" alt="Python" width="580px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCHi18uXFtRb1_q7pQIVxYlwqvhVzCzZ4PQ&s">
+  <img aling="center" alt="Python" width="58px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCHi18uXFtRb1_q7pQIVxYlwqvhVzCzZ4PQ&s">
   <img aling="center" alt="Java" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKhn1qGg_HjWpcCoDoGnl_TB3hu2Rn6Xms7g&s">
   <img aling="center" alt="React.js" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s">
   <img aling="center" alt="Tailwind CSS" width="58px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhoXisDruJMDAq3Ltd-wuaMW2lGxck9wAKw&s"
-  <img aling="center" alt="mySQL" width="60px" src="https://e7.pngegg.com/pngimages/700/692/png-clipart-mysql-mysql.png">
-  <img aling="center" alt="Figma" width="39px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ-zi1wEQyapw-x_FsssdRr-fnDL8wvivTmQ&s">
+  <img aling="center" alt="mySQL" width="57px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQftPNDHFfXeUwyTShrZM9tZpgisw1-6pJejg&s">
+  <img aling="center" alt="Figma" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ-zi1wEQyapw-x_FsssdRr-fnDL8wvivTmQ&s">
   <img aling="center" alt="SpringBoot" width="60px" src="https://www.vhv.rs/dpng/d/458-4589658_spring-framework-logo-spring-boot-png-transparent-png.png">
 </div>
 
