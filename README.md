@@ -18,7 +18,7 @@
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: flex; aling-items: center;"><br>
-  <img aling="center" alt="HTML5" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png">
+  <img aling="center" alt="HTML5" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"> 
   <img aling="center" alt="CSS3" width="43px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png">
   <img aling="center" alt="JavaScript" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
   <img aling="center" alt="Python" width="53px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCHi18uXFtRb1_q7pQIVxYlwqvhVzCzZ4PQ&s">
