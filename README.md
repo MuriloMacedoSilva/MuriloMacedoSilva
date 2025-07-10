@@ -17,17 +17,17 @@
 
 ## Tecnologias que eu uso no meu dia
 
-<div style="display: flex; aling-items: center;"><br>
-  <img aling="center" alt="HTML5" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"> 
-  <img aling="center" alt="CSS3" width="43px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png">
-  <img aling="center" alt="JavaScript" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
-  <img aling="center" alt="Python" width="53px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCHi18uXFtRb1_q7pQIVxYlwqvhVzCzZ4PQ&s">
-  <img aling="center" alt="Java" width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKhn1qGg_HjWpcCoDoGnl_TB3hu2Rn6Xms7g&s">
-  <img aling="center" alt="React.js" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s">
-  <img aling="center" alt="Tailwind CSS" width="58px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhoXisDruJMDAq3Ltd-wuaMW2lGxck9wAKw&s">
-  <img aling="center" alt="MySQL" width="90px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQftPNDHFfXeUwyTShrZM9tZpgisw1-6pJejg&s">
-  <img aling="center" alt="Figma" width="37px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ-zi1wEQyapw-x_FsssdRr-fnDL8wvivTmQ&s">
-  <img aling="center" alt="SpringBoot" width="52px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1RNgloYivDxu-m0uthmQb78H2ULQhv94GZw&s">
+<div style="display: flex"><br>
+  <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img aling="center" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img aling="center" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img aling="center" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img aling="center" alt="React.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  <img aling="center" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+  <img aling="center" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+  <img aling="center" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+  <img aling="center" alt="SpringBoot" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
 </div>
 
 Apaixonado pelo desenvolvimento tecnológico ❤️
