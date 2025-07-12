@@ -24,7 +24,7 @@
 
 <div style="display: flex; gap: 20px">
   <img height="195px" width="49%" src="https://github-readme-stats.vercel.app/api?username=MuriloMacedoSilva&show_icons=true&theme=radical">
-  <img height="195px" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloMacedoSilva&layout=compact&theme=radical">
+  <img height="160px" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloMacedoSilva&layout=compact&theme=radical">
 </div>
 
 
